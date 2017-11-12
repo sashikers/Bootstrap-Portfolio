@@ -90,6 +90,27 @@ p {
 	clear: both;
 }
 
+.portf {
+	padding: 10px;
+	margin: 5px;
+	height: 280px;
+	width: 280px;
+	float: left;
+	position: relative;
+}
+.portftitle {
+	font-size: 1.5em;
+	position: absolute;
+	top: 150px;
+	text-align: center;
+	background-color: pink;
+	opacity: 0.6;
+	font-weight: bold;
+	width: 230px;
+	margin: 16px;
+	padding: 10px;
+}
+
 /*@media screen and (max-width: 768px) {
 	aside {
 		float: none;
