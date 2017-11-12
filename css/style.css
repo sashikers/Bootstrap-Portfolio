@@ -49,7 +49,7 @@ nav {
 nav a {
 	float: right;
 	display: block;
-	padding: 12px;
+	/*padding: 12px;*/
 	font-size: 1.25em;
 	font-variant: small-caps;
 	text-decoration: none;
@@ -112,7 +112,7 @@ section {
 .logo {
 	height: 50px;
 	width: 50px;
-	margin: 5px;
+	/*margin: 5px;*/
 /*	padding: 0px 5px 0px 10px;*/
 }
 footer {
